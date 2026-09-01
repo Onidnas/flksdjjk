@@ -3,4 +3,7 @@
 [[Matematicas Aplicadas]]
 [[Fisica]]
 [[Git]]
-[[vsCode]]
+
+|     |     |
+| --- | --- |
+
