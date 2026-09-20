@@ -1,9 +1,7 @@
 [[C++]]
+[[Proyectos Task Manager]]
 [[Contabilidad]]
 [[Matematicas Aplicadas]]
 [[Fisica]]
 [[Git]]
-
-|     |     |
-| --- | --- |
-
+[[nvim]]

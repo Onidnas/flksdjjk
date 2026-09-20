@@ -1,0 +1,2 @@
+Un parseador de texto es ese programa sript o software que se encarga de estructurar el texto de una forma clara y ordenada.
+En el analisis lexico los divide con estructuras claras palabras claver variables y simbolos.

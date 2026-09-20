@@ -265,14 +265,14 @@ importPaths="/usr/lib/qt6/qml"
 
 Algunos cambios importantes al pasar de versiones anteriores a 0.12:
 
-| Antes | Ahora | Por qué |
-|-------|-------|---------|
-| `vim.loop` | `vim.uv` | `vim.loop` fue deprecado |
-| `vim.diagnostic.goto_prev/next` | `vim.diagnostic.jump()` | API deprecada en 0.12 |
-| `vim.lsp.protocol.make_client_capabilities()` | `require('blink.cmp').get_lsp_capabilities()` | blink.cmp maneja capabilities |
-| `williamboman/mason.nvim` | `mason-org/mason.nvim` | Repos migrados a la organización |
-| `nvim-treesitter` branch `master` | branch `main` | Master archivado, API cambiada |
-| `catppuccin` (colorscheme) | `catppuccin-nvim` | Conflicto con colorscheme builtin de Vim |
+| Antes                                         | Ahora                                         | Por qué                                  |
+| --------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| `vim.loop`                                    | `vim.uv`                                      | `vim.loop` fue deprecado                 |
+| `vim.diagnostic.goto_prev/next`               | `vim.diagnostic.jump()`                       | API deprecada en 0.12                    |
+| `vim.lsp.protocol.make_client_capabilities()` | `require('blink.cmp').get_lsp_capabilities()` | blink.cmp maneja capabilities            |
+| `williamboman/mason.nvim`                     | `mason-org/mason.nvim`                        | Repos migrados a la organización         |
+| `nvim-treesitter` branch `master`             | branch `main`                                 | Master archivado, API cambiada           |
+| `catppuccin` (colorscheme)                    | `catppuccin-nvim`                             | Conflicto con colorscheme builtin de Vim |
 
 ---
 

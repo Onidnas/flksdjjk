@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b137eda0282d455d",
+        "id": "31c452b229e4c27b",
         "type": "tabs",
         "children": [
           {
-            "id": "01538a8fdf5ed699",
+            "id": "4ce5ae72c48aebca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje.md",
+                "file": "Punteros.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aprendizaje"
+              "title": "Punteros"
+            }
+          },
+          {
+            "id": "2039511cd5a32e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SANDINO/UPSandino.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UPSandino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"|     |     || --- | --- |\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +111,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ],
@@ -94,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 427.8187561035156,
+    "collapsed": true
   },
   "right": {
     "id": "e638a3e5f9ed20b4",
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neovim - Configuración con lazy.nvim.md",
+                "file": "UNION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -129,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neovim - Configuración con lazy.nvim.md",
+                "file": "UNION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -149,7 +175,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -163,7 +189,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas las propiedades"
             }
           },
           {
@@ -172,16 +198,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neovim - Configuración con lazy.nvim.md",
+                "file": "UNION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,16 +223,44 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "9c4c0712a55fe0b4",
+  "active": "2039511cd5a32e50",
   "lastOpenFiles": [
-    "Sandino.md",
-    "Dailies.md",
-    "Aprendizaje.md",
-    "Neovim - Configuración con lazy.nvim.md",
+    "notes/20260919-1158-aritmetica-de-punteros.md",
+    "Punteros.md",
+    "Punteros.md~",
+    "SANDINO/C++.md",
+    "SANDINO/Estructuras.md",
+    "Proyectos",
+    "SANDINO/Variables estaticas.md",
+    "SANDINO/UPSandino.md",
+    "SANDINO/Estructuras y Uniones.md",
     "Sin título.md",
+    "Proyectos.md",
+    "Proyectos Task Manager.md",
+    "SANDINO/Untitled-2026-09-08-2017.excalidraw",
+    "SANDINO/taskmanager-mindmap.excalidraw.md",
+    "SANDINO/taskmanager-mindmap.excalidraw",
+    "SANDINO/Neovim - Configuración con lazy.nvim.md",
+    "SANDINO/FeymanEsfuerzoDeformacion.md",
+    "SANDINO/EsfuerzoDeformacion.md",
+    "SANDINO/Aprendizaje.md",
+    "SANDINO/Configurare el Treesitter.md",
+    "SANDINO/Dailies.md",
+    "SANDINO/Fisica.md",
+    "SANDINO/Mapas conceptuales.excalidraw.md",
+    "SANDINO/Movimiento Rectilineo Uniforme y MRU Variado.md",
+    "SANDINO/Examen.md",
+    "SANDINO/Movimiento Cicular Uniforme y Uniformemente Variado.md",
+    "UNION.md",
+    "Drawing 2026-09-08 20.18.49.excalidraw.md",
+    "Estructuras y Uniones.md",
+    "Biblioteca",
+    "Diploma3Linux.pdf",
+    "SANDINO",
     "Untitled.base",
     "Untitled 1.base"
   ]

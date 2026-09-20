@@ -1,0 +1,1 @@
+Las UNIONES se declaran de la misma manera que las [[Estructuras]] pero la principal diferencia entre e
